@@ -24,8 +24,8 @@
 }
 
 #navbar button {
-  background-color: #f7d354;
-  border: 2px solid #f7d354;
+  background-color: var(--color-primary);
+  border: 2px solid var(--color-primary);
   border-radius: 4px;
   color: #000;
   padding: .3rem;
@@ -38,5 +38,5 @@
 
 #navbar button:hover {
   background-color: transparent;
-  color: #f7d354;
+  color: var(--color-primary);
 }
