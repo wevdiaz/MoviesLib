@@ -3,7 +3,7 @@
 ***
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/wevdiaz/MoviesLib/blob/main/image/movielib_screen.png?raw=true">
 </p>
 
 ***
@@ -32,7 +32,7 @@
 
 ### :speech_balloon: Sobre
 
- Projeto de filmes usando React e a API do TMDB,  apresentado  pelo instrutor Matheus Battisti
+ Projeto de filmes usando React e a API do TMDB,  apresentado  pelo instrutor Matheus Battisti. Veja a aplicação clicando [aqui](https://movies-lib-three.vercel.app/)
  
  ### :hammer_and_wrench: Tecnologias
  
